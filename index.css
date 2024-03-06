@@ -1,0 +1,33 @@
+*{
+  align-items: center;
+  background-color:rgb(222, 135, 218);
+}
+.card{
+  width: 250px;
+  height: 380px;
+  align-items: center;
+margin-left: 25px;
+margin-top: 25px;
+gap: 10px;
+}
+.card-text{
+  color: black;
+  background-color: whitesmoke;
+}
+.card-body{
+  width: 200px;
+  
+  align-items: center;
+  background-color: whitesmoke;
+}
+img{
+  align-items: center;
+  width: 200px;
+  height: 100px;
+}
+.card-header{
+  background-color: brown;
+  color: blue;
+  
+  
+}
